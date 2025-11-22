@@ -39,4 +39,4 @@ Copy code
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/Iqbaal-pro/Student_Grades_Analysis.git>
+git clone https://github.com/Iqbaal-pro/Student_Grades_Analysis.git
